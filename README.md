@@ -1,3 +1,3 @@
-# Medical-Cost-Personal-Datasets
+# Medical Cost Personal Datasets
 
 Repositório desenvolvido para competição no Kaggle
